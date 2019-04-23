@@ -1,9 +1,9 @@
-Node script that scrapes apartments off kijiji using unique criterias
+Node script that scrape apartments off kijiji based on month of availability. With this script, you can pass the desired month of availability for apartments amongst other arguments.  
 
 
 How to run
 
- - Fork and download this repo
+ - Fork or download this repo
  
  - Install node. you can use this link https://www.guru99.com/download-install-node-js.html
  
