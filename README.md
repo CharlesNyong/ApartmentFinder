@@ -12,3 +12,4 @@ How to run
  - To run the script, type node "app.js" month max_price email as shown below
  
  
+   ![](Images/apt_finder.JPG)
