@@ -1,0 +1,18 @@
+{
+  "name": "apartmentfinder",
+  "version": "1.0.0",
+  "description": "A simple script/app to find desired apartments on kijiji",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Nyong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "kijiji-scraper": "^4.0.5",
+    "nodemailer": "^6.1.0",
+    "nodemon": "^1.18.11"
+  }
+}
